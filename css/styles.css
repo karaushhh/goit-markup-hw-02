@@ -1,0 +1,129 @@
+:root{
+        --font-primary: "Roboto", "sans-serif";
+        --body-text: #434455;
+        --background-color: #FFFFFF;
+        --color-title-h2-h3-darkbg: #2e2f42;
+        --color-hover-focus: #404bbf;
+        --color-partlogo-buttons: #4d5ae5;
+        --color-resst: #f4f4fd;
+    }
+    .body {
+
+        font-family: "Roboto", sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        background-color:var(--background-color);
+        color: var(--body-text); 
+    }
+    .header {
+        position: absolute;
+        width: 1440px;
+        height: 72px;
+        left: 0px;
+        top: 0px;
+        
+    }
+    .nav-header {
+        /* Menu Nav */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+position: absolute;
+width: 261px;
+height: 24px;
+left: 347px;
+top: 24px;
+    }
+    .logo-link {
+        /* Web */
+
+
+width: 44px;
+height: 21px;
+
+font-family: 'Raleway';
+color: var(--color-partlogo-buttons);
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 21px;
+text-decoration: none;
+/* identical to box height, or 117% */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+    }
+    .logo-linktwo {
+       
+      width: 71px;
+height: 21px;
+
+font-family: 'Raleway';
+color: var(--color-title-h2-h3-darkbg);
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 21px;
+text-decoration: none;
+/* identical to box height, or 117% */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+    }
+    .ul-header {
+        
+    }
+    .li-header {
+    }
+    .adresa {
+    }
+    .ul-adresa {
+    }
+    .main {
+    }
+    .sectionone {
+    }
+    .sectionone-h {
+    }
+    .sectiontwo {
+    }
+    .ul-sectiontwo {
+    }
+    .li-sectiontwo {
+    }
+    .sectiontwo-h {
+    }
+    .sectiontwo-p {
+    }
+    .sectionthree {
+    }
+    .sectionthree-h {
+    }
+    .sectionthree-li {
+    }
+    .sectionfour {
+    }
+    .sectionfour-h {
+    }
+    .sectionfour-ul {
+    }
+    .sectionfour-li {
+    }
+    .sectionfour-p {
+    }
+    .footer-p {
+    }
