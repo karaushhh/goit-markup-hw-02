@@ -55,6 +55,7 @@ font-family: 'Raleway', "sans-serif";
 color: var(--color-partlogo-buttons);
 font-style: normal;
 font-weight: 800;
+line-height: 1.17;
 font-size: 18px;
 line-height: 21px;
 text-decoration: none;
@@ -74,6 +75,7 @@ font-family: 'Raleway', "sans-serif";
 color: var(--color-title-h2-h3-darkbg);
 font-style: normal;
 font-weight: 800;
+line-height: 1.17;
 font-size: 18px;
 line-height: 21px;
 text-decoration: none;
@@ -579,6 +581,7 @@ flex-grow: 0;
         display: flex;
         align-items: center;
         letter-spacing: 0.03em;
+        line-height: 1.17;
         text-transform: uppercase;
         list-style: none;
         text-decoration: none;
@@ -601,6 +604,7 @@ font-family: 'Raleway';
 font-style: normal;
 font-weight: 800;
 font-size: 18px;
+line-height: 1.17;
 line-height: 21px;
 /* identical to box height, or 117% */
 
@@ -640,15 +644,48 @@ color: var(--color-resst);
     
 }
 .port-mainul {
+    /* Filter Btn  */
+
+
+box-sizing: border-box;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 24px;
+
+width: 116px;
+height: 48px;
+
+/* CLOUD */
+
+background: #F4F4FD;
+/* CORNFLOWER */
+
+border: 1px solid #E7E9FC;
+border-radius: 4px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
     list-style: none;
 text-decoration: none;
 }
 .port-mainli {
-    
+
 }
 .button-linkp {
-    
+
+
+/* OCEAN */
+
 }
+
 .port-section {
    
 }
