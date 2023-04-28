@@ -1152,7 +1152,7 @@ flex-grow: 0;
     list-style: none;
 text-decoration: none;
 }
-.port-sectionli {
+.port-sectionlia {
     box-sizing: border-box;
 
 position: absolute;
@@ -1170,7 +1170,177 @@ background: #FFFFFF;
 
 border: 1px solid #E7E9FC;
 }
+
+.port-sectionlib {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 360px;
+    height: 420px;
+    left: 540px;
+    top: 288px;
+    
+    /* WHITE
+    
+    Header background, team card background
+    */
+    background: #FFFFFF;
+    /* CORNFLOWER */
+    
+    border: 1px solid #E7E9FC;
+}
+.port-sectionlic {
+/* Project Card 3 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 360px;
+height: 420px;
+left: 924px;
+top: 288px;
+
+/* WHITE
+
+Header background, team card background
+*/
+background: #FFFFFF;
+/* CORNFLOWER */
+
+border: 1px solid #E7E9FC;
+}
+.port-sectionlid {
+/* Project Card 1 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 360px;
+height: 420px;
+left: 156px;
+top: 756px;
+
+/* WHITE
+
+Header background, team card background
+*/
+background: #FFFFFF;
+/* CORNFLOWER */
+
+border: 1px solid #E7E9FC;
+}
+.port-sectionlii{
+    /* Project Card 2 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 360px;
+height: 420px;
+left: 540px;
+top: 756px;
+
+/* WHITE
+
+Header background, team card background
+*/
+background: #FFFFFF;
+/* CORNFLOWER */
+
+border: 1px solid #E7E9FC;
+}
+.port-sectionlif{
+    /* Project Card 3 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 360px;
+height: 420px;
+left: 924px;
+top: 756px;
+
+/* WHITE
+
+Header background, team card background
+*/
+background: #FFFFFF;
+/* CORNFLOWER */
+
+border: 1px solid #E7E9FC;
+}
+.port-sectionlig{
+    /* Project Card 1 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 360px;
+height: 420px;
+left: 156px;
+top: 1224px;
+
+/* WHITE
+
+Header background, team card background
+*/
+background: #FFFFFF;
+/* CORNFLOWER */
+
+border: 1px solid #E7E9FC;
+}
+.port-sectionlih{
+    /* Project Card 2 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 360px;
+height: 420px;
+left: 540px;
+top: 1224px;
+
+/* WHITE
+
+Header background, team card background
+*/
+background: #FFFFFF;
+/* CORNFLOWER */
+
+border: 1px solid #E7E9FC;
+}
+.port-sectionlie{
+    /* Project Card 3 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 360px;
+height: 420px;
+left: 924px;
+top: 1224px;
+
+/* WHITE
+
+Header background, team card background
+*/
+background: #FFFFFF;
+/* CORNFLOWER */
+
+border: 1px solid #E7E9FC;
+}
+
 .title {
+    
+
 }
 .titlep {
+    
 }
