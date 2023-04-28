@@ -51,7 +51,7 @@ top: 24px;
 width: 44px;
 height: 21px;
 
-font-family: 'Raleway', "sans-serif";
+font-family: "Raleway", sans-serif;
 color: var(--color-partlogo-buttons);
 font-style: normal;
 font-weight: 800;
@@ -71,7 +71,7 @@ text-transform: uppercase;
       width: 71px;
 height: 21px;
 
-font-family: 'Raleway', "sans-serif";
+font-family: "Raleway", sans-serif;
 color: var(--color-title-h2-h3-darkbg);
 font-style: normal;
 font-weight: 800;
@@ -571,7 +571,7 @@ flex-grow: 0;
         width: 44px;
         height: 21px;
         
-        font-family: 'Raleway';
+        font-family: "Raleway" sans-serif ;
         font-style: normal;
         font-weight: 800;
         font-size: 18px;
@@ -600,7 +600,7 @@ flex-grow: 0;
         width: 71px;
 height: 21px;
 
-font-family: 'Raleway';
+font-family: "Raleway" sans-serif;
 font-style: normal;
 font-weight: 800;
 font-size: 18px;
