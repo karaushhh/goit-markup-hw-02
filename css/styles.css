@@ -190,16 +190,16 @@ top: 260px;
 
 /* Header 1 */
 
-font-family: 'Roboto';
+font-family: "Roboto", sans-serif;
 font-style: normal;
-font-weight: 700;
-line-height: 1.07;
-font-size: 56px;
+font-weight: 500;
+line-height: 1.5;
+font-size: 16px;
 color: var(--background-color);
 /* or 107% */
 
 text-align: center;
-letter-spacing: 0.02em;
+letter-spacing: 0.04em;
     }
     .sectionone-button{
         
@@ -238,7 +238,7 @@ border-radius: 4px;
         
         /* Button Text */
         
-        font-family: 'Roboto';
+        font-family: "Roboto", sans-serif;
         font-style: normal;
         font-weight: 500;
         font-size: 16px;
