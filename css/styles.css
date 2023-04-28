@@ -571,7 +571,7 @@ flex-grow: 0;
         width: 44px;
         height: 21px;
         
-        font-family: "Raleway" sans-serif ;
+        font-family: "Raleway", sans-serif;
         font-style: normal;
         font-weight: 800;
         font-size: 18px;
@@ -600,7 +600,7 @@ flex-grow: 0;
         width: 71px;
 height: 21px;
 
-font-family: "Raleway" sans-serif;
+font-family: "Raleway", sans-serif;
 font-style: normal;
 font-weight: 800;
 font-size: 18px;
@@ -626,7 +626,7 @@ color: var(--color-resst);
 
 /* Body */
 
-font-family: 'Roboto';
+font-family: "Roboto";
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
