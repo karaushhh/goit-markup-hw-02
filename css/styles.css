@@ -193,8 +193,8 @@ top: 260px;
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 700;
+line-height: 1.07;
 font-size: 56px;
-line-height: 60px;
 color: var(--background-color);
 /* or 107% */
 
