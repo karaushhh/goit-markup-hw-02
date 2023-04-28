@@ -154,7 +154,7 @@ font-style: normal;
 font-family: 'Roboto';
 font-style: normal;
 text-decoration: none;
-        list-style: none;
+list-style: none;
 
     }
     .gmail{
@@ -164,7 +164,7 @@ text-decoration: none;
         font-weight: 400;
         font-size: 16px;
         line-height: 24px;
-        
+        list-style: none
     }
     .main {
         
