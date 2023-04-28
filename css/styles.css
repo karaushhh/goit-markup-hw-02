@@ -668,6 +668,27 @@ color: var(--color-resst);
     text-decoration: none;
 
 }
+.button-text{
+    width: 116px;
+    height: 48px;
+
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: var(--color-partlogo-buttons);
+    cursor: pointer;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
 
 .button-linkp{
 
@@ -893,9 +914,16 @@ border: 1px solid #E7E9FC;
 }
 
 .title {
-    
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:var(--color-title-h2-h3-darkbg);
 
 }
 .titlep {
-    
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:var(--body-text);
 }
