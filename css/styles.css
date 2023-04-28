@@ -143,6 +143,10 @@ letter-spacing: 0.02em;
         text-decoration: none;
     }
     
+    .li-header:hover,
+    .li-header:focus{
+        color: #404bbf;
+    }
     .adresa {
         font-family: 'Roboto';
 font-style: normal;
@@ -166,6 +170,15 @@ list-style: none;
         line-height: 24px;
         list-style: none
     }
+
+
+.gmail:hover,
+.gmail:focus{
+    color: #404bbf;
+}
+
+
+
     .main {
         
 width: 1440px;
@@ -182,7 +195,7 @@ left: 0px;
 top: 72px;
     }
     .sectionone-h {
-        
+        position: absolute;
 width: 496px;
 height: 120px;
 left: 472px;
@@ -219,7 +232,7 @@ align-items: flex-start;
 padding: 16px 32px;
 gap: 10px;
 
-
+position: absolute;
 width: 169px;
 height: 56px;
 left: 636px;
@@ -259,7 +272,7 @@ border-radius: 4px;
         
     }
     .visually-hidden {
-        
+        position: absolute;
         width: 1px;
         height: 1px;
         margin: -1px;
@@ -282,7 +295,7 @@ align-items: flex-start;
 padding: 0px;
 gap: 8px;
 
-
+position: absolute;
 width: 264px;
 height: 104px;
 left: 156px;
@@ -297,7 +310,7 @@ align-items: flex-start;
 padding: 0px;
 gap: 8px;
 
-
+position: absolute;
 width: 264px;
 height: 104px;
 left: 444px;
@@ -311,7 +324,7 @@ top: 792px;
         padding: 0px;
         gap: 8px;
         
-        
+        position: absolute;
         width: 264px;
         height: 104px;
         left: 732px;
@@ -324,7 +337,7 @@ top: 792px;
         padding: 0px;
         gap: 8px;
         
-       
+        position: absolute;
         width: 264px;
         height: 104px;
         left: 1020px;
@@ -389,7 +402,7 @@ flex-grow: 0;
         
     }
     .sectionthree-h {
-        
+        position: absolute;
 width: 323px;
 height: 40px;
 left: 559px;
@@ -422,7 +435,7 @@ flex-direction: column;
 align-items: flex-start;
 padding: 0px;
 
-
+position: absolute;
 width: 360px;
 height: 300px;
 left: 156px;
@@ -435,7 +448,7 @@ flex-direction: column;
 align-items: flex-start;
 padding: 0px;
 
-
+position: absolute;
 width: 360px;
 height: 300px;
 left: 540px;
@@ -448,14 +461,14 @@ top: 1128px;
         align-items: flex-start;
         padding: 0px;
         
-        
+        position: absolute;
         width: 360px;
         height: 300px;
         left: 924px;
         top: 1128px;
     }
     .sectionfour {
-
+position: absolute;
 width: 1440px;
 height: 732px;
 left: 0px;
@@ -570,7 +583,7 @@ flex-grow: 0;
 
     }
 .footer{
-   
+    position: absolute;
     width: 1440px;
     height: 312px;
     left: 0px;
@@ -731,7 +744,7 @@ text-decoration: none;
 .port-sectionlia {
     box-sizing: border-box;
 
-
+position: absolute;
 width: 360px;
 height: 420px;
 left: 156px;
@@ -750,7 +763,7 @@ border: 1px solid #E7E9FC;
 .port-sectionlib {
     box-sizing: border-box;
 
-    
+    position: absolute;
     width: 360px;
     height: 420px;
     left: 540px;
@@ -771,7 +784,7 @@ border: 1px solid #E7E9FC;
 
 box-sizing: border-box;
 
-
+position: absolute;
 width: 360px;
 height: 420px;
 left: 924px;
@@ -792,7 +805,7 @@ border: 1px solid #E7E9FC;
 
 box-sizing: border-box;
 
-
+position: absolute;
 width: 360px;
 height: 420px;
 left: 156px;
@@ -813,7 +826,7 @@ border: 1px solid #E7E9FC;
 
 box-sizing: border-box;
 
-
+position: absolute;
 width: 360px;
 height: 420px;
 left: 540px;
@@ -834,7 +847,7 @@ border: 1px solid #E7E9FC;
 
 box-sizing: border-box;
 
-
+position: absolute;
 width: 360px;
 height: 420px;
 left: 924px;
@@ -855,7 +868,7 @@ border: 1px solid #E7E9FC;
 
 box-sizing: border-box;
 
-
+position: absolute;
 width: 360px;
 height: 420px;
 left: 156px;
@@ -876,7 +889,7 @@ border: 1px solid #E7E9FC;
 
 box-sizing: border-box;
 
-
+position: absolute;
 width: 360px;
 height: 420px;
 left: 540px;
@@ -897,7 +910,7 @@ border: 1px solid #E7E9FC;
 
 box-sizing: border-box;
 
-
+position: absolute;
 width: 360px;
 height: 420px;
 left: 924px;
@@ -922,7 +935,7 @@ border: 1px solid #E7E9FC;
 
 }
 .titlep {
-    font-size: 16px;
+     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:var(--body-text);
